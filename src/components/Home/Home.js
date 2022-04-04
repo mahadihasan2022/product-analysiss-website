@@ -1,6 +1,6 @@
 import React from "react";
 import car from "../../images/car.jpg";
-import './Home.css'
+import "./Home.css";
 
 const Home = () => {
   return (
@@ -13,7 +13,7 @@ const Home = () => {
             will check it and deliver to your home.
           </p>
           <button className="text-md font-bold rounded-full h-12 w-32 bg-slate-700 text-white">
-              Show More
+            Show More
           </button>
         </div>
         <div>

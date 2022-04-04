@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "img": "https://media.istockphoto.com/photos/smiling-man-outdoors-in-the-city-picture-id1179420343?k=20&m=1179420343&s=612x612&w=0&h=G2UGMVSzAXGAQs3pFZpvWlHNRAzwPIWIVtSOxZHsEuc=",
+    "name": "Asad Hossain",
+    "comment": "It is a wonderful car.",
+    "ratting": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": "2",
+    "img": "https://image.shutterstock.com/image-photo/portrait-positive-cheerful-man-show-260nw-1531460657.jpg",
+    "name": "Mehedi Hasan",
+    "comment": "It is one of the great invention.",
+    "ratting": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "img": "https://i.pinimg.com/736x/45/ae/3e/45ae3e7bffc55a0ea6260e24716966b0.jpg",
+    "name": "Moriom Akter",
+    "comment": "Wow! Really it is very nice car.",
+    "ratting": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": "4",
+    "img": "https://media.istockphoto.com/photos/mature-mixed-race-business-man-picture-id1059661424?k=20&m=1059661424&s=612x612&w=0&h=CLL4tto10GPo1gtMR9c-kPmf8VkvodjvTyqvtEuTLtg=",
+    "name": "Mahadi Hasan",
+    "comment": "wonderful Invention !",
+    "ratting": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": "5",
+    "img": "https://www.forbesindia.com/media/wpower2020/ankiti%20bose.jpg",
+    "name": "Sumiya Akter",
+    "comment": "Nice car !",
+    "ratting": 4.5,
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "img": "https://static9.depositphotos.com/1687987/1171/i/600/depositphotos_11715353-stock-photo-young-woman-portrait.jpg",
+    "name": "Tafsia Tunan",
+    "comment": "It is a wonderful car.",
+    "ratting": 4.5,
+    "quantity": 0
+  }
+]
