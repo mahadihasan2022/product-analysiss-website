@@ -1,9 +1,15 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import car from "../../images/car.jpg";
 import Review from "../Review/Review"
 import "./Home.css";
 
 const Home = () => {
+  const navegate = useNavigate();
+  const showDetail = ()=>{
+    navegate('/Review');
+  }
+  
   return (
     <div>
       <div className="grid grid-cols-2 p-8 home-container">
@@ -22,6 +28,11 @@ const Home = () => {
         </div>
       </div>
       <Review></Review>
+      <div className="p-8 text-info">
+      <button onChange={showDetail} className="h-12 w-20 rounded-lg text-black font-bold  btn-info">
+        see all
+      </button>
+      </div>
     </div>
   );
 };

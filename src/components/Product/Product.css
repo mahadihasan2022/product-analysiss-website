@@ -2,9 +2,12 @@
   border: 1px solid black;
   background-color: rgb(243, 204, 176);
 }
-/* .info{
-  padding-left: 20px;
-} */
 .review-items img{
   border-radius: 10px;
+}
+.btn{
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(219, 106, 123);
+  border-radius: 4px;
 }
