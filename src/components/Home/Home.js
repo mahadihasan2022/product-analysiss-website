@@ -1,5 +1,6 @@
 import React from "react";
 import car from "../../images/car.jpg";
+import Review from "../Review/Review"
 import "./Home.css";
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
           <img className="rounded-xl" src={car} alt="" />
         </div>
       </div>
+      <Review></Review>
     </div>
   );
 };
